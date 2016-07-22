@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/AppTheme"
+    tools:context="com.example.android.gotw.DiscoveryActivity">
+<LinearLayout
+    android:orientation="vertical"
+    style="@style/AppTheme">
+    <TextView
+        style="@style/AppTheme"
+        android:background="#000"
+        android:text="Discover is suppose to recommend music based on what you have listened to." />
+</LinearLayout>
+</ScrollView>

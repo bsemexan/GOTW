@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GOTW</string>
+
+
+    <string name="category_genre">Genre</string>
+
+    <string name="category_artist">Artist</string>
+
+    <string name="category_discovery">Discovery</string>
+
+</resources>

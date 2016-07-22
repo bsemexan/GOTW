@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/AppTheme"
+
+    tools:context="com.example.android.gotw.GenreActivity">
+
+    <LinearLayout
+        style="@style/AppTheme"
+        android:orientation="vertical">
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="#000"
+        android:text="This helps us find the type of genre you are into" />
+
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorAccent"
+        android:text="Are you into?" />
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorMenu"
+        android:text="Commercial"/>
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorMenu"
+        android:text="Indie"/>
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorMenu"
+        android:text="Underground"/>
+    </LinearLayout>
+
+</ScrollView>

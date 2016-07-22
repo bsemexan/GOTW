@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/AppTheme"
+
+    tools:context="com.example.android.gotw.ArtistActivity">
+<LinearLayout
+    style="@style/AppTheme"
+    android:orientation="vertical">
+    <TextView
+        style="@style/AppTheme"
+        android:background="#000"
+        android:text="This  help us find the type of artist you are into" />
+
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorAccent"
+        android:text="Are you into?" />
+
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorMenu"
+        android:text="Tiesto" />
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorMenu"
+        android:text="Kanye West" />
+
+    <TextView
+        style="@style/AppTheme"
+        android:background="@color/colorMenu"
+        android:text="Maya Jane Cole" />
+</LinearLayout>
+</ScrollView>
